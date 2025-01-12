@@ -1,7 +1,5 @@
 <template>
   <nav>
-    <router-link to="/">Cris</router-link> |
-    <router-link to="/proyect">Proyectos</router-link>
   </nav>
   <router-view />
 
@@ -57,7 +55,7 @@ nav a.router-link-exact-active {
   text-align: left;
   padding-left: 30px;
   padding-right: 30px;
-  padding-top: 60px;
+  padding-top: 10px;
 }
 body {
   background-image: url('/src/assets/fondo.jpeg');
@@ -84,19 +82,19 @@ body {
 }
 
 .gato{
-  padding: 5em;
+  padding: 2em;
 }
 
 .panda {
-  padding: 10px;
+  padding: 5px;
   text-align: center;
   transition: transform 0.2s ease-in-out;
   color: antiquewhite;
 }
 .panda img {
-  border-radius: 10px; 
   max-width: 100px; 
-  height: auto; 
+  height: 100px;
+  width: 100px; 
   margin-bottom: 1em;
 }
 
@@ -104,7 +102,7 @@ body {
 main {
   display: grid;
   grid-gap: 1em;
-  padding: 1em;
+  padding: 5px;
 }
 /* Estilos para las cajas individuales */
 .box {

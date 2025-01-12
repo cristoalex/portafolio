@@ -43,24 +43,70 @@
           <p><h3></h3></p>
         </div>
         <div class="panda">
-          <img src="../assets/html.png" alt="">
+          <img src="../assets/html-5.png" alt="https://www.flaticon.es/iconos-gratis/html" title="html iconos">
           <p><h3></h3></p>
         </div>
         <div class="panda">
-          <img src="../assets/css.png" alt="">
+          <img src="../assets/css-3.png" alt="https://www.flaticon.es/iconos-gratis/css" title="css iconos">
           <p><h3></h3></p>
         </div>
         <div class="panda">
-          <img src="../assets/java.jpg" alt="">
+          <img src="../assets/script-java.png" alt="https://www.flaticon.es/iconos-gratis/secuencia-de-comandos-java" title="java iconos">
           <p><h3></h3></p>
         </div>
         <div class="panda">
-          <img src="../assets/sql.png" alt="">
+          <img src="../assets/sql.png" alt="https://www.flaticon.es/iconos-gratis/sql" title="sql iconos">
           <p><h3></h3></p>
         </div>
       </main>
     </div>
   </div>
+
+
+  <div class="gallery">
+        <div class="row">
+
+            <main>
+                <div class="box">
+                    <img class="zoomable-image" src="../assets/no-image.png" alt="" width="200">
+                    <p></p>
+                    <p></p>
+                </div>
+                <div class="box">
+                    <img class="zoomable-image" src="../assets/no-image.png" alt="" width="200">
+                    <p></p>
+                    <p></p>
+                </div>
+                <div class="box">
+                    <img class="zoomable-image" src="../assets/no-image.png" alt="" width="200">
+                    <p></p>
+                    <p></p>
+                </div>
+            </main>
+        </div>
+    </div>
+
+    <footer class="camaron">
+    <div style="max-width: 1700px; margin: 0 auto;">
+      <!-- Información de la empresa -->
+
+      <div style="margin-bottom: 20px;">
+        <p style="margin: 5px 0;"></p>
+        <p style="margin: 5px 0;">Tel:+52 9322035900 | Email: crisramosor@gmail.com</p>
+      </div>
+      <!-- Redes sociales -->
+      <div class="mani">
+        <a href="https://www.linkedin.com/in/cristopher-alexander-ramos-ordo%C3%B1ez-336090253/#/" target="_blank">
+          <img class="bolsa" src="../assets/linkedin.png" alt="https://www.flaticon.es/iconos-gratis/linkedin" title="linkedin iconos">
+        </a>
+        <a href="https://github.com/cristoalex" target="_blank">
+          <img class="bolsa" src="../assets/github.png" alt="https://www.flaticon.es/iconos-gratis/gato" title="gato iconos">
+        </a>
+      </div>
+
+      <p class="derechos">&copy; 2025. Todos los derechos reservados.</p>
+    </div>
+  </footer>
 
 
 </template>
