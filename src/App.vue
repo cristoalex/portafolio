@@ -74,6 +74,16 @@ body {
   flex-wrap: wrap;
   align-items: center;
 }
+.arbol p{
+  clear: both;
+  float: right;
+  color: antiquewhite;
+  padding-right: 10px;
+  max-width: 200px;
+  max-height: 200px;
+  text-align: center;
+ 
+}
 .mango {
 
   width: 200px;
@@ -183,6 +193,14 @@ main {
       display: block;
       margin: 0 auto 1em;
       max-width: 80%;
+    }
+
+    .arbol p{
+      float: none;
+      display: block;
+      margin: 0 auto 1em;
+      max-width: 80%;
+
     }
 
   /* Ajustar tamaño de las cajas */
